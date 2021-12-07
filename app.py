@@ -12,4 +12,4 @@ while True:
         if event.type == pygame.USEREVENT:
             antalSeks = antalSeks +1
             mlcddraw(["Räknare","", str(antalSeks)])
-       
+       #test
