@@ -13,7 +13,7 @@ def mlcdinit(chars,lines,scalein):
 
 
 def mlcddraw(args):
-    i=0;
+    i=0
     global screen
     global myfont
     global scale
